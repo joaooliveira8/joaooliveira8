@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="" src=""  />
-</div>
-
 ###
 
 <h3 align="left">João Pedro de Oliveira</h3>
