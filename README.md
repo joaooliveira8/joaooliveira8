@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">### 👨‍💻 About Me
+<h3 align="left"> 👨‍💻 About Me </h3>
 
 Olá! Sou o **João**, Desenvolvedor Front-end e estudante de Sistemas de Informação. 🚀
 
