@@ -4,11 +4,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">### 👨‍💻 About Me
 
-###
+Olá! Sou o **João**, Desenvolvedor Front-end e estudante de Sistemas de Informação. 🚀
 
-<p align="left">Sou um profissional determinado e comprometido com resultados e prazos, estudante dedicado e apaixonado por tecnologia. Busco aplicar e expandir meus conhecimentos na área de TI, sempre focado em aprendizado contínuo e evolução profissional. Tenho facilidade para aprender novas ferramentas e tecnologias, além de estar constantemente aprimorando minhas habilidades técnicas e analíticas.</p>
+Atualmente passo boa parte dos meus dias entre **React, TypeScript e JavaScript**, criando novas funcionalidades, integrando APIs e, claro, resolvendo aquele bug que *“não estava acontecendo ontem”*. 😅
+
+Também gosto de explorar um pouco além do front-end, então venho trabalhando e estudando tecnologias como **Node.js, .NET e PostgreSQL**.
+
+💻 Desenvolvendo aplicações web  
+🧩 React • TypeScript • JavaScript  
+⚙️ Node.js • .NET • APIs REST  
+🗄️ PostgreSQL  
+🌱 Sempre aprendendo alguma coisa nova (ou tentando descobrir por que o código parou de funcionar)
+
+Por aqui você vai encontrar alguns projetos, estudos, experimentos e provavelmente alguns `console.log()` esquecidos pelo caminho. 👀</p>
 
 ###
 
