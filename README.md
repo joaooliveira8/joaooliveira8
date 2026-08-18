@@ -6,9 +6,9 @@
 
 <h3 align="left"> 👨‍💻 About Me </h3>
 
-Olá! Sou o **João**, Desenvolvedor Front-end e estudante de Sistemas de Informação. 🚀
+Olá! Sou o **João**, Desenvolvedor Front-end e estudante de Sistemas de Informação. 
 
-Atualmente passo boa parte dos meus dias entre **React, TypeScript e JavaScript**, criando novas funcionalidades, integrando APIs e, claro, resolvendo aquele bug que *“não estava acontecendo ontem”*. 😅
+Atualmente passo boa parte dos meus dias entre **React, TypeScript e JavaScript**, criando novas funcionalidades, integrando APIs e, claro, resolvendo aquele bug que *“não estava acontecendo ontem”*.
 
 Também gosto de explorar um pouco além do front-end, então venho trabalhando e estudando tecnologias como **Node.js, .NET e PostgreSQL**.
 
